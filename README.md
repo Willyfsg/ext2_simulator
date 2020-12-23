@@ -1,1 +1,1 @@
-# ext2_simulator
+# Author Sebastian F. Gutierrez R.
