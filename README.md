@@ -10,10 +10,10 @@ Es importante mencionar que el esqueleto del código fue desarrollado por el pro
 
 El programa se compone de varias funciones, estas son:
 
-Printbytemaps: imprime los mapas de bytes.
-ComprobarComando: comprueba si un comando es válido.
-LeeSuperBloque: lee el superbloque.
-BuscaFich: busca un archivo dado por nombre en la tabla de directorios.
-Directorio: imprime la tabla de directorios.
-Renombrar: renombra un archivo.
-Imprimir: imprime.
+* Printbytemaps: imprime los mapas de bytes.
+* ComprobarComando: comprueba si un comando es válido.
+* LeeSuperBloque: lee el superbloque.
+* BuscaFich: busca un archivo dado por nombre en la tabla de directorios.
+* Directorio: imprime la tabla de directorios.
+* Renombrar: renombra un archivo.
+* Imprimir: imprime.
