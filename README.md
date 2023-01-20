@@ -16,4 +16,4 @@ LeeSuperBloque: lee el superbloque.
 BuscaFich: busca un archivo dado por nombre en la tabla de directorios.
 Directorio: imprime la tabla de directorios.
 Renombrar: renombra un archivo.
-Imprimir: imprime
+Imprimir: imprime.
