@@ -6,7 +6,7 @@ El programa tiene funciones para imprimir los mapas de bytes, comprobar un coman
 
 Además, el programa utiliza la librería "cabeceras.h" para almacenar las estructuras y las constantes necesarias para el funcionamiento del sistema de archivos.
 
-Es importante mencionar que el esqueleto del código fue desarrollado por el profesor Francisco Javier Algarra.
+Es importante mencionar que el esqueleto del código fue desarrollado por el profesor [Javier García-Algarra](https://github.com/jgalgarra).
 
 El programa se compone de varias funciones, estas son:
 
